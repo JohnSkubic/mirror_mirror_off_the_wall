@@ -1,0 +1,61 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 07ab83a7-1a6a-43af-88c5-014a5f609559)
+
+  (paper "A4")
+
+  (title_block
+    (title "Mirror Mirror Off the Wall")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 22.86 21.59) (size 33.02 27.94) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid d8c9bb6a-baca-43f1-8f70-575438f62a8b)
+    (property "Sheet name" "AM3358BZCZA100" (id 0) (at 22.86 20.8784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "untitled.kicad_sch" (id 1) (at 22.86 50.1146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/d8c9bb6a-baca-43f1-8f70-575438f62a8b" (page "2"))
+  )
+
+  (symbol_instances
+    (path "/d8c9bb6a-baca-43f1-8f70-575438f62a8b/85074739-bde9-4e61-b7a9-88988fb61d26"
+      (reference "U1") (unit 1) (value "AM3358BZCZA100") (footprint "eec:Texas_Instruments-AM3358BZCZA100-Manufacturer_Recommended")
+    )
+    (path "/d8c9bb6a-baca-43f1-8f70-575438f62a8b/dc12d614-f308-4c3a-8659-1f018cb86d1a"
+      (reference "U1") (unit 2) (value "AM3358BZCZA100") (footprint "eec:Texas_Instruments-AM3358BZCZA100-Manufacturer_Recommended")
+    )
+    (path "/d8c9bb6a-baca-43f1-8f70-575438f62a8b/2970cf78-2153-4ef2-8f49-7efb1d09f1f2"
+      (reference "U1") (unit 3) (value "AM3358BZCZA100") (footprint "eec:Texas_Instruments-AM3358BZCZA100-Manufacturer_Recommended")
+    )
+    (path "/d8c9bb6a-baca-43f1-8f70-575438f62a8b/5bf95e53-f260-4435-8ba3-9d1c8d65515c"
+      (reference "U1") (unit 4) (value "AM3358BZCZA100") (footprint "eec:Texas_Instruments-AM3358BZCZA100-Manufacturer_Recommended")
+    )
+    (path "/d8c9bb6a-baca-43f1-8f70-575438f62a8b/6322d560-1748-469b-af59-3e03d000a181"
+      (reference "U1") (unit 5) (value "AM3358BZCZA100") (footprint "eec:Texas_Instruments-AM3358BZCZA100-Manufacturer_Recommended")
+    )
+    (path "/d8c9bb6a-baca-43f1-8f70-575438f62a8b/27570609-6617-4087-9936-7d27b265cb10"
+      (reference "U1") (unit 6) (value "AM3358BZCZA100") (footprint "eec:Texas_Instruments-AM3358BZCZA100-Manufacturer_Recommended")
+    )
+    (path "/d8c9bb6a-baca-43f1-8f70-575438f62a8b/15e1c54d-073d-4c69-9458-7abcc6782204"
+      (reference "U1") (unit 7) (value "AM3358BZCZA100") (footprint "eec:Texas_Instruments-AM3358BZCZA100-Manufacturer_Recommended")
+    )
+    (path "/d8c9bb6a-baca-43f1-8f70-575438f62a8b/03fbe80a-5824-44dc-9a7c-bb16c2f02aa7"
+      (reference "U1") (unit 8) (value "AM3358BZCZA100") (footprint "eec:Texas_Instruments-AM3358BZCZA100-Manufacturer_Recommended")
+    )
+    (path "/d8c9bb6a-baca-43f1-8f70-575438f62a8b/b3cb5b85-7d0d-44d5-a546-af91f72e7025"
+      (reference "U1") (unit 9) (value "AM3358BZCZA100") (footprint "eec:Texas_Instruments-AM3358BZCZA100-Manufacturer_Recommended")
+    )
+  )
+)

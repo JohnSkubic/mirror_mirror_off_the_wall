@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "digikey-footprints")(type "KiCad")(uri "/Users/johnskubic/Downloads/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "eec")(type "KiCad")(uri "/Users/johnskubic/Downloads/IC_Texas%20Instruments_AM3358BZCZA100/eec.pretty")(options "")(descr ""))
+)
